@@ -1,0 +1,5 @@
+Num: 06,  1995 to   237, step1:   87, loss: 0.0006, step2: 1499, loss1: 0.0014, loss2: 0.0445, success number:  51, total number:  51, success rate: 100.00
+Num: 07,  2094 to  3570, step1:  118, loss: 0.0008, step2: 1267, loss1: 0.0000, loss2: 0.0399, success number:  40, total number:  40, success rate: 100.00
+Num: 08,  2961 to   121, step1:   71, loss: 0.0009, step2:  213, loss1: 0.0000, loss2: 0.0399, success number:  25, total number:  25, success rate: 100.00
+Num: 09,  3570 to  1284, step1:   71, loss: 0.0005, step2: 1223, loss1: 0.0000, loss2: 0.0399, success number:  29, total number:  29, success rate: 100.00
+Num: 10,  3575 to  2961, step1:  148, loss: 0.0008, step2: 1499, loss1: 0.0027, loss2: 0.0476, success number:  36, total number:  36, success rate: 100.00
